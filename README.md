@@ -19,13 +19,13 @@ perspective that’s focused on real-world applications and transformative possi
 
 ## **_Proficiency in:_** 
 
-> **Efficient Neural Network Design**  
-> **ML Model Scaling & Optimization**   
+> **Design of Neural Networks**
+> **Neural Network Training Optimization**  
+> **ML Model Scaling**   
 > **Cloud Deployment**  
 > **Configuring & Optimizing Systems for Parallel Computing**
->
-> ### Languages
-> ### ML/AI 
+> Real-Time Data Processing & Analysis
+> Algorithm Efficiency & Optimization
 
 ## **_Technical Projects:_**
 ### BICEP Pipeline (Brownian Inspired Computationally Efficient Parallelizer) 
