@@ -1,10 +1,21 @@
 # **Ryan Rochmanofenna**
 
-##  **_Contactable via:_**
-#### **Email:**
-> **_rochmanofenna@gmail_**
-#### **Personal Site:**
-> **_rochmanofenna.io_**
+```
+Thank you for visiting my page. All projects listed were pursued for an interest none other
+than my own. Though many topics here exist outside of my undergraduate university curriculum, I
+am thankful for the free educational content that has greatly influenced the person I am today.
+
+I'm driven by a bold intellectual curiosity and a determination to innovate beyond the ordinary.
+At first, I developed an interest in understanding advanced concepts like quantum computing,
+neural networks, and distributed systems like blockchain.
+
+Now, I’m inspired to create and optimize them in ways that challenge conventional approaches.
+From architecting efficient AI solutions to building frameworks like BICEP, I approach each project
+with the ambition to push boundaries and make meaningful impact.
+
+I thrive in tackling complex challenges, blending foundational knowledge with a fresh, disruptive
+perspective that’s focused on real-world applications and transformative possibilities.
+```
 
 ## **_Proficiency in:_** 
 
