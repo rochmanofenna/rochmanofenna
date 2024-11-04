@@ -5,8 +5,9 @@
 <div align="center">
   
 ### **Complete and Extensive Overview of Technical Expertise and Project Documentation**
+Last Updated: Mid October 
 
-#### **_*BICEP, NANopt, and Algorhythm are currently being developed in private repositories. Development progress and/or source code available upon request. Details on implementation strategy is publicly available with extensive documentation._**
+#### **_*BICEP, NANopt, and ENNs are currently being developed in private repositories. Development progress and/or source code available upon request. Details on implementation strategy is publicly available with extensive documentation._**
 
 </div>
 
