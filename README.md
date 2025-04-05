@@ -3,42 +3,6 @@
 </div>
 
 <div align="center">
-  
-### **Complete and Extensive Overview of Technical Expertise and Project Documentation**
-Last Updated: Mid October 
-
-#### **_*BICEP, NANopt, and ENNs are currently being developed in private repositories. Development progress and/or source code available upon request. Details on implementation strategy is publicly available with extensive documentation._**
-
-</div>
-
-### Intent:
-
-I am someone who thrives on taking complex ideas and shaping them into groundbreaking solutions, driven by a bold independence and an insatiable curiosity. An independent learner by nature, I’ve pursued many skills and every project listed outside of the university curriculum, diving into niche topics such as: 
-
-- **_quantum processing_**
-- **_artificial neural networks_**
-- **_blockchain design_**
-- **_optimization techniques_**
-- **_data augmentation_**
-
-Originally, I began this journey simply to feed my curiosity. However, the rabbit hole I caught myself in has equipped me with the knowledge to redefine these fields in real-world applications. From architecting efficient AI solutions to designing frameworks like **BICEP**, I approach every project with the ambition to push boundaries, blending strong foundational knowledge with an unorthodox, disruptive perspective.
-
-**_For me, innovation isn’t just about new ideas—it’s about creating impactful, transformative results. Each project is a chance to make a meaningful difference, not only in my work but in the broader tech landscape._**
-
----
-
-<div align="center">
-
-| 📑 **Table of Contents** |
-|--------------------------|
-| [Technical Skills](#Technical-Skills) |
-| [Domains of Interest](#Domains-of-Interest) |
-| [Current Active Projects](#current-active-projects) |
-| [Cross Disciplinary Intersections](#Cross-Disciplinary-Intersections) |
-| [Credits](#credits) |
-
-</div>
-
 
 # **Overview of Learned Technical Skills**
 
